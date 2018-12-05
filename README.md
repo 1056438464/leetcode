@@ -1,1 +1,2 @@
-# Arithmetic
+# Arithmetic 
+## my leetcode notes
